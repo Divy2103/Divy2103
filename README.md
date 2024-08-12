@@ -19,7 +19,7 @@ A computer engineering student, Looking to start my career as an Full Stack deve
 ## 📚 Tools & Technologies I Want to Learn
 
 ![Next JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 And Many more...
 
