@@ -24,7 +24,8 @@ A computer engineering student, Looking to start my career as an Full Stack deve
 And Many more...
 
 ## 🚀 Projects
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neelgoyani702&repo=e-commerce-backend)](https://github.com/neelgoyani702/e-commerce-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neelgoyani702&repo=e-commerce-frontend)](https://github.com/neelgoyani702/e-commerce-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Divy2103&repo=react_blog)](https://github.com/Divy2103/react_blog)
 
 ## 📫 Connect with Me
